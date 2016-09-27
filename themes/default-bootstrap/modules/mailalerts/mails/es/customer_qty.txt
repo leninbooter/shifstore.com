@@ -1,0 +1,10 @@
+[{shop_url}] 
+
+Hola, 
+
+Ya tenemos disponible este producto en nuestro catálogo
+
+Puede acceder a la página del producto haciendo clic en el enlace
+{product} [{product_link}]	 
+
+{shop_name} [{shop_url}]
